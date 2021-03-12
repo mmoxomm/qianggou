@@ -9,7 +9,7 @@ QQ群号：636677598
   
 微信：baohuikf  
 扫描微信二维码添加好友，邀请加入微信群，验证：抢购助手  
-![image](https://github.com/mmoxomm/qianggou/blob/main/wx.png)  
+![image](https://github.com/mmoxomm/qianggou/blob/main/wx.jpg)  
   
   
   
